@@ -1,56 +1,70 @@
 Jake Ryan
-ew York XY I 128-587O I js Senna I Uoiin conn beye I gibhcom lyon
-Proressiowa, Suincany
-‘Bpesied Softare Bogison with oe 8 year of expr edging, devlepg, and vating dad bad
-Zplcens screw htop and obispo. Pron tac ocr nding Age evden, namapog
-‘itocnd tog, and davering sabe wlnioos ung miecearvos aiecaras inthe anc cere demain
-‘Atop a imegrting CV/ED pipes, ensuring emnplance wit ndsystanfard, and ealaberating Wit
-roa function tas to epmin produ quai tod opersupoal ete
-Eoucarton
-‘Vanderbie Valves “hag 3OH - Dee, DE
-Mane of Svar purer Sener Na,
-University of Mumba J, 2O1O May O14
-Bacher of pneringntrmesatio nd Ciel Brgnering nde Inde
-sears
-‘Programing Ianguagen Seve, Fython, 6 Cn SQ, lnSaig, Tec, RIES, CS
-Framcwonue nS, rate TH Kienne’ REGE Oa Meaee PP Sea, Kant, Tet
-Deroy Techrsinger ails GOP, Anu Dev, Ded, Xubetas ove, rks
-Passo Penge; Sls Moog, ty SH, Rods Ansa DyneneDB, Pose
-“Poo Gi Guat aston, foe Ghaoo, ictecviom, Nga, Apute Kala, bam Prone, Rear, pea
-Prorsssiowa, EXPERicnce
-“eet Analyet pe 3O hog HE
-‘ior Lint I Java Spring Bat REST AP, PanreSQy Soop, JUnit Gt, Jenne, Dace Johnna, Sou Ase
-*"Darcpad an nosate hdeRancen pes Sng cg ot Spaag te cad tard ae ice
-eal bebe apo and wanes Inns et poy
-~ Tojeaed aie cent to art pat eben oie delvey tne hy 25% a exh alebenion
-to tenn of evapo a QR egies
-+ Dorcel bus API irgrsins tid party ervey, nding lit cr preven ad nd dtcion we,
-Leong berms gels pen fy nod eben seat
-+ Daige! end tplesened dcesna calle erm oo REST APle retried pom of csmer
-‘Ste ea fet cy nse): mal on by
-« itteanige ct Rowell abe worn: utng 5O% ue dna revi open od isproved
-Ly ie ken igh nsncton hens rue lan poring
-« Ronnist ADI dasuzeintea grotnon wih Seago, age tne led far develo nd vate hy 29% a
-Slum eptrne APT lve doops te Serle Mace
-‘Tas Enploeet ck 2O44. O19
-‘pre Lit I ar, Spring Bet, Ras AP 1M RIT, Jer Psa horns Seuh Aen
-perlite anaes Er open rs cg i pont meamps hadron
-1 Ghul mene ip ete mala ad tc weonson, eco tnoding SOOO wens nage
-Sens fins teak eta Senda
-« Daspeol AP tain sou wag Fein, nenlonting etree y 3O os ely bo tan
-1 Rota eadsoaed mscton tks RIT Sng om by 5 aoe te ape
-Paosect ExPEnicNce
-"Bowypted Hank deve I Jap, Po Fay Berton, Dial Sipps
-Brslped nr tei bn apy og Pol ay eying ion ety
-1 Dalgect te sore aoe mais cat cauotens vce ad sangped tn sage
--Asttenre— An Agile ‘ecm I Fl Pon, Open, nS, Pst, Sto
-BaeSipcls argh tnd ment ay rice ik gl an See cg PageSOL; mand ©
-Sinhar af nr El dng cen grevdlag nse ihe ar en snporcoes tel pronase ag
--Arisg Poplrity Anaya I Flash Pn, Rect, eae, Gi
-Einked ele por taht Py od Fk elt and prec aver WD dan pa fr Re
-Seoul AP rl
-+ Rand rin pope ith 9 casey ig Spt tnd seatnet an of OOO+ Ra
-cesujomensts
-Lexornsiap EXPeRisncs
-Greduste Resnrch Assistant 7 Avdlping il Egan ed Beaioes 8D Spm it Waloadn Saag
-‘Genduate Teng Antstat © Obert Otesnd Dege i Daign Poecs (NESSIE)
+
+New York, NY 12545875OO I jelneyan com I Enkin com/in/ery I ithubom/ ley
+
+Proressionat, Summary
+
+Experienced Software Engineer with ovr 8 years of expertise in designing, developing, and wasting dow-based
+appliations aera: desktop and mobile platforms. Proven track record in driving Agile development, managing
+end-to-end testing, and dalvering sealable solutions using mieroserviews architectures in the fnancal services domain.
+Adept at integrating C1/CD pipelins, ensuring compliance with industry standards, and collaborating with
+rog-funetional teams to opinize product quality nd operational eflanc.
+
+Epvearion
+‘Vanderbilt University “Rag, 2O2 Dee. 2O24
+Master of Seen" Corpaer Science Neshe, TN
+University of Mumbat JJ, 2O1O tay 2O14
+Bachelor of Enginering-Intramentation and Control Engineering Mamba, India
+
+Skmis
+‘Programming Languagen Sara, Python, ©, C1 SQh, JanScaipe, TypeScaps, HTML, CSS
+
+Frameworks Spring Boot, Spang MVC, liberate, REST, JUase, Next Flak Plater, Slesem, Karate, ToC
+BevOpe Technologies AWS, GCP, Anu DevOpm Docker, Kuberarie, PoweSbel, Jenn
+
+Databaoee: PontgrsSQL, SQLite, MongaD!, MySQL, Red) Amason DynamcDE, Fecha
+
+‘Toole: Git, Gitluh Actions, Jira, Bamboo, Microrviom, Ngns, Apche Kula, Kibana, Prometheus, Racher, Opens
+
+PRoressionat, EXPERIENCE,
+
+‘Test Analyst ‘Ape SO19 Ang.
+Wire Limuted I Jova, Spring Bout, REST API, PosereSQL, Swogper, Unit, Git Jenkins, Docker Johennesur, South Africa
+* Developed an actamated voile Snancs sate ing Jao and Spring Bast, optimizing the end tocnd laa egnation
+
+proce fr fetes approval and wares negation ith tind peiy vce
+Eeplomanted Ape methodslogy to coordinate opin, rocing project dewey time by 25% and eahacingcllaboation
+soe oun of developer and QA eginoen
++ Developed roburt APT integrations fo third party servicm icing cat core provider and ead detection wets
+Improving borrower qulfetion spd by 5O% and eabaning scuity
++ Designed aad unplamenta document callin werkiows aang REST APIs fr automated proconing of cure
+stipulations (og prool f income arene), maacing aman flr by O%
++ Ta the design of PnereSQ data nts retng ina 35% incre i data etre pea und improved
+sclaiy for handing high raat volumes nat oun rovoning
++ Automated API documentation gneration with Swanger, dacng the tine ragaie fr developers and tater by 25% wad
+‘msurng uptodste API rdorncm throughout the development eye
+‘Test Engineer Oct. 2O14 — Mar. 2O19
+Wipe Limited I Jova, Spring oct, Rest AP, IRM RIT, JasaSonpt, Postman Johannesburg, South Africa
+* Developed astomation scripts fr O% of regremion tts concerning SO 2OO22 payment menage basin ee
+1 Created ett ips to tila ale and bach tenn, oclug baning 9OOO teneatine ining
+tach let feta inte bnak teting cations
++ Dasigned API mlsatonscipts wing Pesan, acceratng ema ecuton by 99% though erly ug detection
+1 Refctored and tocnd atomtion tet cue in TBM RIT, wlaptng them by 9O% to nccommedae fate apne
+
+Proseor EXPERIENCE
+
+‘Encrypted Bank Server I Jans Pale Rey Fnorypton, Digital Signatures
+* Developed thre er architectre bai app using publ bry ce=ypion ke digital igoatare fr seurty
+1 Designed the server to handle multiple cnn connections concurrently and encrypted data storage
+Athlcisre- An Apiity Tracker I Flask Pyion, OpenV, JanaSerg, PstreSOL, Seamt
+“Developed a cobs agit and mio ning plans within dan aalyer ming PostgreSQL; minnie w
+ntabane of oer 2OOO tuning sons, providing actionable night or continuous improvement and performance acing,
+Arvnt Popularity Analysis I Flask Python, Reet, JaaSer, Cit
+* Canon nda pipes ahiertare wih Pytos and Fst callect and proces ove 1OOOO data pint from Radi ac
+Spouly API arene
++ Aoulyant acti popularity with a 95% accuracy ting Sptfy metros and ventinen analysis of 5.OOO4 Red
+
+Leapensitp EXPERIENCE
+
+(Graduate Research Assistant = Analysing Facil Exprocins and Bnoiias i SD Space wih Malmodal Scaing
+Grodante Teaching Amistant = Object Oresed Design wth Design Patera (INFO 512%)

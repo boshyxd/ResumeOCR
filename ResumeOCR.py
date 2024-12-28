@@ -13,19 +13,13 @@ output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ResumeDum
 os.makedirs(output_dir, exist_ok=True)
 
 def preprocess_image(image):
-    """Apply preprocessing to improve OCR accuracy"""
+    """Apply minimal preprocessing for clean documents"""
     # Convert to grayscale
     image = image.convert('L')
     
-    # Enhance contrast
+    # Slightly enhance contrast
     enhancer = ImageEnhance.Contrast(image)
-    image = enhancer.enhance(2.0)
-    
-    # Apply sharpening
-    image = image.filter(ImageFilter.SHARPEN)
-    
-    # Apply thresholding to create binary image
-    image = image.point(lambda x: 0 if x < 140 else 255)
+    image = enhancer.enhance(1.2)
     
     return image
 
@@ -50,8 +44,8 @@ def process_resumes():
                 image = Image.open(input_path)
                 processed_image = preprocess_image(image)
                 
-                # Perform OCR with optimized settings
-                custom_config = r'--oem 3 --psm 6 -l eng'
+                # Perform OCR with settings optimized for clean documents
+                custom_config = r'--oem 3 --psm 3 -l eng'
                 text = pytesseract.image_to_string(processed_image, config=custom_config)
                 
                 # Basic post-processing of OCR text
