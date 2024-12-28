@@ -1,79 +1,56 @@
 Jake Ryan
-
-[New ork, NY | 125-158-7900 | julatrynn.com | lin com/in/ ker |gicbb.com/inleryan
-
-Proressionat, Suny
-
-“Experienced Software Engineer with oer 8 years of expertise in designing, developing, and vasting cloud based
-appliations aerss desktop and mobile platforms. Proven track record in driving Agile development, managing
-end-to-end testing, and dalvering sealable solutions using mieroservces architectures in the fnancal services domain.
-Adept at integrating C1/CD pipelins, ensuring compliance with industry standards, and collaborating with
-‘rog-funetional teams to optimize product quality nd operational efelanc.
-
-Epvcarion
-‘Vanderbilt University “Aug, 2022 Dee. 2028
-Master of Seen - Computer Science ‘Nase, TN
-University of Mumbai Ju. 2010 - May 2014
-Bachelor of Enginering-Intramentatin and Control Engineering Mamba, India
-
-Skmis
-
-‘Programming Languagex Java, Python. ©, Oy 1, SQL, JeraSaipe, TypeSerps, NTMI OSS
-Frameworks Spring Boot, Spang MVC, liberate: REST, JUast, Neat Fk, Plata, Slesem, Keene, ToC
-DevOpe Technologie=: AWS, CCP, Azure DevOp, Docker, Kuberacim, PoweSbel,Jenkine
-
-Datatnee: PontrsSQL, SQLite, MongaDB, MySQU., Radi Amazon DynameDE, Pesbme
-
-‘Toole: Git, Gitlub Actions, Jr, Bamboo, Micrviom, Nas, Apche Kufn,Kibana, Prometheus, aches, Opens
-
-PROFESSIONAL EXPERIENCE
-
-‘Test Analyst ‘Ape 2019 Ang.
-Wigr Lime | Jove, Spring Bot REST API, PoigeSQL, Songer, JUnit Gt, Jenkins, Decker Jhamsbrg, South free
-* Developed an nctamated vile Saance system ing Jao ane Spring Bast, optimizing the end tocnd laa eignation
-
-proce fr faster approval and wnmcsshcgrtion ith tind peiy evi
-
-+ Tnplamerted Ape meshodloy to coordinate sprint reducing projec dlvery tine by 25% and enhancing cllabertin
-ston eu of developers and QA engines
-
-+ Developed roburt APT integrations fo third party servicm icing cat core provider and ead detection etm
-Improving borronerqulietio spd by 50% and eahaning scary
-
-+ Designed and inplamental document callin workows ang REST APIs fr automated proconing of cure
-stipulations (og prot of income, incurnnce), racing aml lot by 40%
-
-+ Ta the deign of PnereSOL data ait tng ina 35% ino i data etre peal and impeovod
-‘clay for handing igh rman volumes nat oun rononing
-
-+ Astomated API documentation gmeration with Swapge,rdacng the tine raguited fr developers and tater by 25% ad
-‘emuring uptodate ADI reerences thoughout the development eye
-
-‘Test Engineer oct. 2014 — Mar. 2019
-Wig Limited | Joo, Spring Bat, Ren AP, IM RIT, Jao, Postman Johannesburg, South Africa
-* Developed astomation scripts fr dO of egremion tts concerning SO 20022 payment menage bance ee
-
-1 Created etiomation sips to slate mal Se and buch tennctons, nluig banding 9000 tenmatione in nage
-tech let fai inte bnck tetngselatione
-
-+ Designed API lstton scripts wing Postman, ncleratng inva recation by 30% though ely bg detection
-
-1 Refactored and tend atomation tet cue in TBM RIT, nlaptng them by 20% to nccommedae Satur opdate
-
-Proseor EXPeRiENce
-
-‘Bncrypted Bank Server | Jan Pb Rey Encryption, Digi Sates
-“Developed thre er archiectre bai app using publ bry eveyone digital igoatare fr seurty
-1 Designed the server to handle mutipl cnn connections concurrently and encrypted data storage
-Athicisure - An Agility Tracker | Flask Python, OpenV, JnaSer, PstreSOL, Streamt
-‘"Deveopod a cobs agliy nd rutin tenning pln wth strated dan analog Postar: mintained w
-Rar of ewe 200 tng case, pig tale tgs nica pee ed pete ning
-Arvint Popularity Analysis | Flak Pyhon, React, Joerg, Git
-‘Caen nda pipuine architocare with Python and Fant callect and proce ovr 1.000 datapoints rm Radi and
-Spouly API arose
-+ Analyt actin popularity with a 95% accuracy using Spotfy metrics and wntiment analysis of 5000+ Radi
-poms/somimene
-Leapensitp EXPERIENCE
-
-(Graduate Research Assistant = Asalying Facil Exprocins snd Bnotios i SD Space wih Malmodal Scsing
-[Graduate Teaching Assistant - Object Oserted Daige with Design Patterns QNFO.SOX)
+ew York XY I 128-587O I js Senna I Uoiin conn beye I gibhcom lyon
+Proressiowa, Suincany
+‘Bpesied Softare Bogison with oe 8 year of expr edging, devlepg, and vating dad bad
+Zplcens screw htop and obispo. Pron tac ocr nding Age evden, namapog
+‘itocnd tog, and davering sabe wlnioos ung miecearvos aiecaras inthe anc cere demain
+‘Atop a imegrting CV/ED pipes, ensuring emnplance wit ndsystanfard, and ealaberating Wit
+roa function tas to epmin produ quai tod opersupoal ete
+Eoucarton
+‘Vanderbie Valves “hag 3OH - Dee, DE
+Mane of Svar purer Sener Na,
+University of Mumba J, 2O1O May O14
+Bacher of pneringntrmesatio nd Ciel Brgnering nde Inde
+sears
+‘Programing Ianguagen Seve, Fython, 6 Cn SQ, lnSaig, Tec, RIES, CS
+Framcwonue nS, rate TH Kienne’ REGE Oa Meaee PP Sea, Kant, Tet
+Deroy Techrsinger ails GOP, Anu Dev, Ded, Xubetas ove, rks
+Passo Penge; Sls Moog, ty SH, Rods Ansa DyneneDB, Pose
+“Poo Gi Guat aston, foe Ghaoo, ictecviom, Nga, Apute Kala, bam Prone, Rear, pea
+Prorsssiowa, EXPERicnce
+“eet Analyet pe 3O hog HE
+‘ior Lint I Java Spring Bat REST AP, PanreSQy Soop, JUnit Gt, Jenne, Dace Johnna, Sou Ase
+*"Darcpad an nosate hdeRancen pes Sng cg ot Spaag te cad tard ae ice
+eal bebe apo and wanes Inns et poy
+~ Tojeaed aie cent to art pat eben oie delvey tne hy 25% a exh alebenion
+to tenn of evapo a QR egies
++ Dorcel bus API irgrsins tid party ervey, nding lit cr preven ad nd dtcion we,
+Leong berms gels pen fy nod eben seat
++ Daige! end tplesened dcesna calle erm oo REST APle retried pom of csmer
+‘Ste ea fet cy nse): mal on by
+« itteanige ct Rowell abe worn: utng 5O% ue dna revi open od isproved
+Ly ie ken igh nsncton hens rue lan poring
+« Ronnist ADI dasuzeintea grotnon wih Seago, age tne led far develo nd vate hy 29% a
+Slum eptrne APT lve doops te Serle Mace
+‘Tas Enploeet ck 2O44. O19
+‘pre Lit I ar, Spring Bet, Ras AP 1M RIT, Jer Psa horns Seuh Aen
+perlite anaes Er open rs cg i pont meamps hadron
+1 Ghul mene ip ete mala ad tc weonson, eco tnoding SOOO wens nage
+Sens fins teak eta Senda
+« Daspeol AP tain sou wag Fein, nenlonting etree y 3O os ely bo tan
+1 Rota eadsoaed mscton tks RIT Sng om by 5 aoe te ape
+Paosect ExPEnicNce
+"Bowypted Hank deve I Jap, Po Fay Berton, Dial Sipps
+Brslped nr tei bn apy og Pol ay eying ion ety
+1 Dalgect te sore aoe mais cat cauotens vce ad sangped tn sage
+-Asttenre— An Agile ‘ecm I Fl Pon, Open, nS, Pst, Sto
+BaeSipcls argh tnd ment ay rice ik gl an See cg PageSOL; mand ©
+Sinhar af nr El dng cen grevdlag nse ihe ar en snporcoes tel pronase ag
+-Arisg Poplrity Anaya I Flash Pn, Rect, eae, Gi
+Einked ele por taht Py od Fk elt and prec aver WD dan pa fr Re
+Seoul AP rl
++ Rand rin pope ith 9 casey ig Spt tnd seatnet an of OOO+ Ra
+cesujomensts
+Lexornsiap EXPeRisncs
+Greduste Resnrch Assistant 7 Avdlping il Egan ed Beaioes 8D Spm it Waloadn Saag
+‘Genduate Teng Antstat © Obert Otesnd Dege i Daign Poecs (NESSIE)
