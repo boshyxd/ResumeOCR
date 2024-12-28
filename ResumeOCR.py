@@ -3,22 +3,22 @@ import google.generativeai as genai
 from PIL import Image
 from dotenv import load_dotenv
 
-# Load environment variables
+
 load_dotenv()
 
-# Configure Gemini
+
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
-# Define input and output directories
+
 input_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ResumePng')
 output_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ResumeDump')
 
-# Create output directory if it doesn't exist
+
 os.makedirs(output_dir, exist_ok=True)
 
 def process_resumes():
     try:
-        # Create the model
+        
         generation_config = {
             "temperature": 1,
             "top_p": 0.95,
@@ -32,7 +32,7 @@ def process_resumes():
             generation_config=generation_config,
         )
 
-        # Get list of image files in input directory
+        
         image_files = [f for f in os.listdir(input_dir) 
                       if f.lower().endswith(('.png', '.jpg', '.jpeg'))]
         
@@ -40,38 +40,64 @@ def process_resumes():
             print("No image files found in the input directory.")
             return
 
-        # Initialize combined text
+        
         combined_text = ""
-
-        # Process each image file
-        for image_file in image_files:
-            try:
-                # Construct full file paths
-                input_path = os.path.join(input_dir, image_file)
-                
-                # Load image
-                print(f"Processing: {image_file}")
-                image = Image.open(input_path)
-                
-                # Resize image if too large
-                max_size = (1024, 1024)
-                if image.size[0] > max_size[0] or image.size[1] > max_size[1]:
-                    image.thumbnail(max_size, Image.Resampling.LANCZOS)
-                
-                # Create chat session
-                chat_session = model.start_chat(history=[])
-                
-                # Send image for OCR
+        
+        
+        batch_size = 10
+        for i in range(0, len(image_files), batch_size):
+            batch = image_files[i:i + batch_size]
+            print(f"Processing batch {i//batch_size + 1} of {len(image_files)//batch_size + 1}")
+            
+            
+            images = []
+            for image_file in batch:
                 try:
-                    response = chat_session.send_message(
-                        [image, "Extract all text from this resume image with perfect accuracy. Return only the extracted text:"]
-                    )
+                    input_path = os.path.join(input_dir, image_file)
+                    image = Image.open(input_path)
+                    
+                    
+                    max_size = (1024, 1024)
+                    if image.size[0] > max_size[0] or image.size[1] > max_size[1]:
+                        image.thumbnail(max_size, Image.Resampling.LANCZOS)
+                    
+                    images.append((image_file, image))
                 except Exception as e:
-                    print(f"API Error: {str(e)}")
+                    print(f"Error loading {image_file}: {str(e)}")
                     continue
+            
+            
+            chat_session = model.start_chat(history=[])
+            
+            try:
                 
-                # Add to combined text
-                combined_text += f"\n\n=== {image_file} ===\n{response.text}"
+                response = chat_session.send_message(
+                    [*[img for _, img in images], 
+                     "Extract all text from these resume images with perfect accuracy. Return the extracted text for each image, clearly labeled with the filename:"]
+                )
+                
+                
+                
+                for image_file, image in images:
+                    try:
+                        
+                        individual_chat = model.start_chat(history=[])
+                        
+                        
+                        individual_response = individual_chat.send_message(
+                            [image, f"Extract all text from this resume image with perfect accuracy. The filename is {image_file}:"]
+                        )
+                        
+                        
+                        combined_text += f"\n\n=== {image_file} ===\n{individual_response.text}"
+                        
+                    except Exception as e:
+                        print(f"Error processing {image_file}: {str(e)}")
+                        continue
+                
+            except Exception as e:
+                print(f"API Error: {str(e)}")
+                continue
                 
             except Exception as e:
                 print(f"Error processing {png_file}: {str(e)}")
@@ -79,7 +105,7 @@ def process_resumes():
     except Exception as e:
         print(f"Error: {str(e)}")
     
-    # Save combined results
+    
     if combined_text:
         output_path = os.path.join(output_dir, 'combined_results.txt')
         with open(output_path, 'w', encoding='utf-8') as f:

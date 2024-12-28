@@ -24,8 +24,8 @@ Databases: PostgreSQL, SQLite, MongoDB, MySQL, Redis, Amazon DynamoDB, Firebase
 Tools: Git, GitHub Actions, Jira, Bamboo, Microservices, Nginx, Apache Kafka, Kibana, Prometheus, Rancher, Openshift
 PROFESSIONAL EXPERIENCE
 Test Analyst
-Apr. 2019 - Aug. 2022
-Wipro Limited | Java, Spring Boot, REST APIs, PostgreSQL, Swagger, JUnit, Git, Jenkins, Docker Johannesburg, South Africa
+Apr. 2019-Aug. 2022
+Wipro Limited | Java, Spring Boot, REST APIs, PostgreSQL, Swagger, JUnit, Git, Jenkins, Docker | Johannesburg, South Africa
 • Developed an automated vehicle finance system using Java and Spring Boot, optimizing the end-to-end loan origination
 process for faster approvals and seamless integration with third-party services
 • Implemented Agile methodology to coordinate sprints, reducing project delivery time by 25% and enhancing collaboration
@@ -39,8 +39,9 @@ scalability for handling high transaction volumes in auto loan processing
 • Automated API documentation generation with Swagger, reducing the time required for developers and testers by 25% and
 ensuring up-to-date API references throughout the development lifecycle
 Test Engineer
+Wipro Limited | Java, Spring Boot, Rest APIs, IBM RIT, JavaScript, Postman
 Oct. 2014 - Mar. 2019
-Wipro Limited | Java, Spring Boot, Rest APIs, IBM RIT, JavaScript, Postman Johannesburg, South Africa
+Johannesburg, South Africa
 • Developed automation scripts for 90% of regression tests concerning ISO 20022 payment messages business rules
 • Created automation scripts to simulate real-time and batch transactions, including handling 50,000 transactions in a single
 batch file, to facilitate inter-bank testing simulations
@@ -59,17 +60,19 @@ Spotify APIs in real-time
 • Analyzed artist popularity with a 95% accuracy using Spotify metrics and sentiment analysis of 5,000+ Reddit
 posts/comments
 LEADERSHIP EXPERIENCE
-Graduate Research Assistant: Analyzing Facial Expressions and Emotions in 3D Space with Multimodal Sensing
-Graduate Teaching Assistant: Object Oriented Design with Design Patterns (INFO-542X)
+Graduate Research Assistant : Analyzing Facial Expressions and Emotions in 3D Space with Multimodal Sensing
+Graduate Teaching Assistant : Object Oriented Design with Design Patterns (INFO-542X)
 
 
 === resume_redacted.png ===
 Nikhil Nandkumar Mhatre
 nxm2555@mavs.uta.edu |+1 6823139102 | GitHub/ghost9933 | LinkedIn/nikhil-nandkumar-mhatre
+
 SUMMARY
 Software engineer with hands-on experience in designing and building scalable applications using TypeScript, Spring Boot, and React. Specializing
 in cloud computing and big data solutions, I bring a strong track record of leading projects and collaborating with cross-functional teams to deliver
 impactful, customer-centric solutions.
+
 PROFESSIONAL EXPERIENCE
 Data Engineer
 June 2021 - April 2023
@@ -80,29 +83,27 @@ achieving a 10% reduction in data processing time and increasing data accuracy b
 • Conducted in-depth analysis of employee HR data for Warner Media using Snowflake and Informatica, identified inconsistencies, delivered
 actionable insights, and implemented solutions, improving overall data accuracy by 15%.
 Software Developer Intern
-June 2019-July 2020
+June 2019 - July 2020
 • Led a team of five to design and deliver project that automated project management system, reducing manual effort by 50%, earning the "Best
 Internship Project" award.
 • Utilized Java, Spring Boot, and SQL for back-end development and JavaScript, React, Node.js, HTML5, and CSS for front-end development,
 resulting in responsive and easily maintainable applications
 • Mentored juniors in SQL querying, DBMS, and CI/CD practices, resulting in improvement in team productivity and collaboration.
+
 SKILLS
-• Languages:
-• Frameworks:
-• Tools:
-• Databases:
-• Misc.:
+• Languages: Python, C, Java, HTML, CSS, JavaScript, TypeScript, SQL, PHP
+• Frameworks: React, .NET, Node.js, Pandas, NumPy, OpenCV, Spark, Hadoop, HiveQL, Spark SQL, Kafka, GraphQL, TensorFlow, gRPC
+• Tools: GitHub, Postman, Jenkins, CI/CD, AWS, GCP, Nginx, Docker, Kubernetes, Snowflake, Informatica PC, IICS, bash, IBM Cognos
+• Databases: SQL Server, Azure SQL, MariaDB, MongoDB, AWS Aurora
+• Misc.: Excel, Power BI, ServiceNow, Stream lit
+
 CERTIFICATIONS
-Python, C, Java, HTML, CSS, JavaScript, TypeScript, SQL, PHP
-React, .NET, Node.js, Pandas, NumPy, OpenCV, Spark, Hadoop, HiveQL, Spark SQL, Kafka, GraphQL, TensorFlow, gRPC
-GitHub, Postman, Jenkins, CI/CD, AWS, GCP, Nginx, Docker, Kubernetes, Snowflake, Informatica PC, IICS, bash, IBM Cognos
-SQL Server, Azure SQL, MariaDB, MongoDB, AWS Aurora
-Excel, Power BI, ServiceNow, Stream lit
 • SnowPro Core: Snowflake
 • DevOps: PagerDuty and Linkedin
 • JavaScript: Microsoft
 • Docker Professional Certificate
 • Meta Front-End Developer Certificate
+
 EDUCATION
 Master of Science | Computer Science
 GPA: 4.0/4.0
@@ -115,23 +116,23 @@ Distributed Consensus System using Raft Algorithm
 Technologies Used: Docker, gRPC, Python, Java
 | GPA:3.6/4.0
 2024
-No-Code Data Pipeline Creator (a cloud-native web application)
 • Implemented Leader Election and Log Replication by using a simplified version of the Raft consensus algorithm, enabling leader election and
 fault-tolerant log replication across a network of containerized nodes communicating via gRPC.
 • Developed Client-Server Architecture with Testing to ensure consistent log replication and state management.
+No-Code Data Pipeline Creator (a cloud-native web application)
 Technologies Used: GCP, JavaScript, Node.js, HTML, CSS, Django, Docker, Spark, Jenkins, Testing, GitHub actions
 2023
-• Built a Ul enabling non-technical users to create ETL pipelines. A cloud-native solution using PySpark, GCP's Dataproc and Dataflow to enable
-users to create a simple data transformation pipeline via Ul
+• Built a UI enabling non-technical users to create ETL pipelines. A cloud-native solution using PySpark, GCP's Dataproc and Dataflow to enable
+users to create a simple data transformation pipeline via UI
 • Built a secure front end that allows users to upload datasets securely and efficiently to cloud storage using OAuth 2.0 and multipart upload
 • Streamlined development by implementing a CI/CD pipeline with automated testing.
-2021
 Scalable Image Classifier on AWS
 Technologies Used: Torch, React, HTML, CSS, JavaScript, Pandas, NumPy, AWS, and NLTK libraries
+2021
 • Developed an image classifier using AWS, Application Load Balancer and Auto Scaling Groups to enable handling multiple concurrent requests
 with low latency, featuring a front-end portal allowing users to retrain the model with custom datasets
 • Architected loosely coupled components using a messaging queue for communication between the application tier and frontend tier
-• Used AWS CDK as an lac solution to simplify infrastructure and configuration management
+• Used AWS CDK as an IaC solution to simplify infrastructure and configuration management
 Text Summarizer
 Technologies Used: Flask, TensorFlow, Collab, Python, HTML, CSS, JavaScript, CI/CD, Flask, React
 2020
@@ -144,31 +145,33 @@ EXTRACURRICULAR
 === Screenshot_2024-12-24_at_5.16.57_PM.png ===
 Lebron James
 lebron@gmail.com • (000) 000-0000 • linkedin.com/lebron • github.com/lebron
+
 EXPERIENCE
+
 Microsoft
 Software Engineer, Azure
 Redmond, WA
-January 2023 - Current
+January 2023 – Current
 Implemented and launched Azure's flagship feature, <insert feature name>, enabling scalable enforcement of xxx across
 600+ organizations, driving a 30% increase in product adoption.
-Ο
-Delivered full-stack solutions spanning backend REST APIs (C#), frontend interfaces (React, TypeScript), and
-serverless architectures (Docker, TypeScript) to support enterprise scaling.
+    ○ Delivered full-stack solutions spanning backend REST APIs (C#), frontend interfaces (React, TypeScript), and
+    serverless architectures (Docker, TypeScript) to support enterprise scaling.
 Played pivotal role in creating & shipping <insert service name>, developing scalable DB infrastructure and enhancing
 web applications to support rapid product growth.
 Created end-to-end testing infrastructure, integrating them into CI/CD pipelines to enhance product quality.
-Ο Conducted workshops and Q&A sessions to ensure team-wide adoption.
+    ○ Conducted workshops and Q&A sessions to ensure team-wide adoption.
 Established comprehensive monitoring systems (metrics, logs, alerts, dashboards) to uphold a 99.99% SLA.
 Enhanced on-call operations with actionable postmortem analyses, fostering a culture of continuous improvement and
 incident prevention.
+
 Software Engineer, VS Code
 Led integration of xxx into the VSCode <insert extension name> extension, delivering the most-requested feature for
 millions of developers worldwide.
-Ο
-Developed 50+ VS Code commands to enhance xxx tooling, improving user workflows and expanding container
-capabilities.
+    ○ Developed 50+ VS Code commands to enhance xxx tooling, improving user workflows and expanding container
+    capabilities.
 Collaborated with the open-source community, driving feature alignment with user feedback and resolving issues to
 improve developer experience.
+
 Microsoft
 Software Engineer Intern
 Redmond, WA
@@ -177,6 +180,7 @@ Designed and deployed Azure Functions capable of processing 3,000+ requests per 
 operational efficiency. (Python, Azure Functions)
 Built custom Docker containers, decreasing deployment time by 40% through efficient dependency management.
 (Docker)
+
 Medium sized Medical Device Company
 Software Engineer Intern
 San Diego, CA
@@ -185,6 +189,7 @@ Designed and tested software tools for interfacing with CGM medical devices (C#)
 innovations.
 Delivered 10+ features, including encryption & decryption of custom files, extraction & processing of XML files, Okta
 unit testing authentication system, and visualizing datasets in JMP.
+
 Small Medical Device Company
 Software Engineer Intern
 Seattle, WA
@@ -192,12 +197,16 @@ May 2020 – November 2020
 Developed & integrated content & data management system into new web application for managing 15000+ documents.
 (C#, ASP.NET, JavaScript)
 Added 20+ features, including CRUD functions, encrypted login & signup (SQL Server) and filtered search. (MongoDB)
+
 EDUCATION
+
 State School in California
 B.S. Computer Science
 Graduated Magna Cum Laude | 3.7 GPA
 City, CA
+
 SKILLS
+
 Programming Languages:
 Tools & Technology:
 C#, TypeScript, Python, Java, JavaScript, C
@@ -214,7 +223,7 @@ Tools & Libraries: Datadog, Snowflake, AWS, Google Cloud Platform, Docker, Fireb
 EXPERIENCE
 Backend Software Engineer
 Company
-Sep. 2024 Dec. 2024
+Sep. 2024 – Dec. 2024
 Location, Location
 • Implemented financial event tracking in Snowflake, improving auditing of over $200K in shipping events annually
 • Redesigned shipping cost cap systems lifting total volume of goods sold by 3% and re-orders by 9%
@@ -225,7 +234,7 @@ real-time data collection and variant performance analytic tracking for brands
 reliability across 3 subsystems serving 100K+ brands
 Software Engineer
 Company
-Jan. 2024 Apr. 2024
+Jan. 2024 – Apr. 2024
 Location, Location
 • Designed in-app survey framework in Swift, enabling real-time feedback collection from 1M+ users
 • Built and optimized a client-side A/B testing tool with GraphQL AWS backend, driving a 15% lift in subscription
@@ -234,18 +243,17 @@ conversions across 1000+ users.
 company's ecosystem of smart devices
 Lead Software Engineer
 Company
-May 2023 Aug. 2023
+May 2023 – Aug. 2023
 Location, Location
 • Designed and implemented architecture of a health application with secure RESTful APIs enabling large-scale
 sharing of vital signs data between patients and doctors.
-•
-Created appointment scheduling system using Amazon SQS and Apple EventKit, allowing patients to book
+• Created appointment scheduling system using Amazon SQS and Apple EventKit, allowing patients to book
 appointments based on real-time doctor availability, reducing scheduling conflicts
 • Deployed predictive analytics on AWS for doctors to view real-time patient health insights
 • Built integration with Apple HealthKit to automatically sync health records from users' Apple Watches
 Machine Learning Engineer
 Company
-Sep. 2022 Dec. 2022
+Sep. 2022 – Dec. 2022
 Location, Location
 • Created end-to-end signal processing pipeline using Brainflow API, Numpy and Pandas to collect and process EEG
 data in real time, resulting in 20% quicker and more efficient model performance and predictions
@@ -253,7 +261,7 @@ data in real time, resulting in 20% quicker and more efficient model performance
 accuracy on EEG data to classify human motor movements using brain signals
 Software Quality Engineer
 Company
-Jan. 2022 Apr. 2022
+Jan. 2022 – Apr. 2022
 Location, Location
 • Designed and Developed Automated Web Software Testing Framework to update existing test suite
 PROJECTS
@@ -265,9 +273,9 @@ Smart Home Fan Integration | Arduino, Google Home | GitHub
 control and automation, programming an on-chip web server to manage device settings.
 EDUCATION
 University of Name
-Bachelor of Engineering, X Engineering, CGPA: 91%
+Bachelor of Engineering, X Engineering, cGPA: 91%
 Location
-Sep. 2021 Apr. 2026
+Sep. 2021 – Apr. 2026
 
 
 === Uchechukwu-Alih-Resume-cut.jpg ===
