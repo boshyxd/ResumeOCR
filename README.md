@@ -15,12 +15,15 @@ This tool scans a specified input folder for PNG images of resumes, uses OCR to 
 ## Requirements
 
 - Python 3.x
-- pytesseract
+- google-generativeai
 - Pillow (PIL)
-- Tesseract OCR engine
 
 ## Usage
 
-1. Place resume PNG files in `~/Documents/ResumePng/`
-2. Run the script
-3. Find converted text files in `~/Documents/ResumeDump/`
+1. Place resume image files (PNG, JPG, JPEG) in `~/Documents/ResumePng/`
+2. Create a .env file with your Gemini API key:
+   ```
+   GEMINI_API_KEY=your_api_key_here
+   ```
+3. Run the script
+4. Find the combined results in `~/Documents/ResumeDump/combined_results.txt`

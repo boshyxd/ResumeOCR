@@ -1,0 +1,371 @@
+=== image.png ===
+Jake Ryan
+New York, NY 123-456-7890 | jake@ryan.com | linkedin.com/in/jakeryan | github.com/jakeryan
+PROFESSIONAL SUMMARY
+Experienced Software Engineer with over 8 years of expertise in designing, developing, and testing cloud-based
+applications across desktop and mobile platforms. Proven track record in driving Agile development, managing
+end-to-end testing, and delivering scalable solutions using microservices architectures in the financial services domain.
+Adept at integrating CI/CD pipelines, ensuring compliance with industry standards, and collaborating with
+cross-functional teams to optimize product quality and operational efficiency.
+EDUCATION
+Vanderbilt University
+Master of Science - Computer Science
+University of Mumbai
+Bachelor of Engineering - Instrumentation and Control Engineering
+SKILLS
+Aug. 2022-Dec. 2024
+Nashville, TN
+Jul. 2010 - May 2014
+Mumbai, India
+Programming Languages: Java, Python, C, C++, SQL, JavaScript, TypeScript, HTML5, CSS3
+Frameworks: Spring Boot, Spring MVC, Hibernate, REST, JUnit, Next.js, Flask, Flutter, Selenium, Karate, TestNG
+DevOps Technologies: AWS, GCP, Azure DevOps, Docker, Kubernetes, PowerShell, Jenkins
+Databases: PostgreSQL, SQLite, MongoDB, MySQL, Redis, Amazon DynamoDB, Firebase
+Tools: Git, GitHub Actions, Jira, Bamboo, Microservices, Nginx, Apache Kafka, Kibana, Prometheus, Rancher, Openshift
+PROFESSIONAL EXPERIENCE
+Test Analyst
+Apr. 2019 - Aug. 2022
+Wipro Limited | Java, Spring Boot, REST APIs, PostgreSQL, Swagger, JUnit, Git, Jenkins, Docker Johannesburg, South Africa
+• Developed an automated vehicle finance system using Java and Spring Boot, optimizing the end-to-end loan origination
+process for faster approvals and seamless integration with third-party services
+• Implemented Agile methodology to coordinate sprints, reducing project delivery time by 25% and enhancing collaboration
+across teams of developers and QA engineers
+• Developed robust API integrations for third-party services, including credit score providers and fraud detection systems,
+improving borrower qualification speed by 50% and enhancing security
+• Designed and implemented document collection workflows using REST APIs for automated processing of customer
+stipulations (e.g., proof of income, insurance), reducing manual effort by 40%
+• Led the design of PostgreSQL database architecture, resulting in a 35% increase in data retrieval speed and improved
+scalability for handling high transaction volumes in auto loan processing
+• Automated API documentation generation with Swagger, reducing the time required for developers and testers by 25% and
+ensuring up-to-date API references throughout the development lifecycle
+Test Engineer
+Oct. 2014 - Mar. 2019
+Wipro Limited | Java, Spring Boot, Rest APIs, IBM RIT, JavaScript, Postman Johannesburg, South Africa
+• Developed automation scripts for 90% of regression tests concerning ISO 20022 payment messages business rules
+• Created automation scripts to simulate real-time and batch transactions, including handling 50,000 transactions in a single
+batch file, to facilitate inter-bank testing simulations
+• Designed API validation scripts using Postman, accelerating issue resolution by 30% through early bug detection
+• Refactored end-to-end automation test cases in IBM RIT, adapting them by 30% to accommodate feature updates
+PROJECT EXPERIENCE
+Encrypted Bank Server | Java, Public Key Encryption, Digital Signatures
+• Developed a three-tier architecture bank app using public key encryption & digital signature for security
+• Designed the server to handle multiple client connections concurrently and encrypted data storage
+Athleisure - An Agility Tracker | Flask, Python, OpenCV, JavaScript, PostgreSQL, Streamlit
+• Developed a robust agility and reaction training platform with integrated data analytics using PostgreSQL; maintained a
+database of over 2,000 training sessions, providing actionable insights for continuous improvement and performance tracking
+Artist Popularity Analysis | Flask, Python, React, JavaScript, Git
+• Crafted a data pipeline architecture with Python and Flask to collect and process over 10,000 data points from Reddit and
+Spotify APIs in real-time
+• Analyzed artist popularity with a 95% accuracy using Spotify metrics and sentiment analysis of 5,000+ Reddit
+posts/comments
+LEADERSHIP EXPERIENCE
+Graduate Research Assistant: Analyzing Facial Expressions and Emotions in 3D Space with Multimodal Sensing
+Graduate Teaching Assistant: Object Oriented Design with Design Patterns (INFO-542X)
+
+
+=== resume_redacted.png ===
+Nikhil Nandkumar Mhatre
+nxm2555@mavs.uta.edu |+1 6823139102 | GitHub/ghost9933 | LinkedIn/nikhil-nandkumar-mhatre
+SUMMARY
+Software engineer with hands-on experience in designing and building scalable applications using TypeScript, Spring Boot, and React. Specializing
+in cloud computing and big data solutions, I bring a strong track record of leading projects and collaborating with cross-functional teams to deliver
+impactful, customer-centric solutions.
+PROFESSIONAL EXPERIENCE
+Data Engineer
+June 2021 - April 2023
+• Investigated location data anomalies in HRIS data, analyzed Spark, informatica scripts across teams, discovered root cause and implemented fix
+• Engineered end-to-end data pipelines using Snowflake, Spark, Kafka, Python, and SQL to extract, transform, and load data from diverse sources,
+achieving a 10% reduction in data processing time and increasing data accuracy by eliminating data inconsistencies
+• Automated workflows using stored procedures, materialized views, and Power BI, saving 0.5 days of manual effort for one FTE
+• Conducted in-depth analysis of employee HR data for Warner Media using Snowflake and Informatica, identified inconsistencies, delivered
+actionable insights, and implemented solutions, improving overall data accuracy by 15%.
+Software Developer Intern
+June 2019-July 2020
+• Led a team of five to design and deliver project that automated project management system, reducing manual effort by 50%, earning the "Best
+Internship Project" award.
+• Utilized Java, Spring Boot, and SQL for back-end development and JavaScript, React, Node.js, HTML5, and CSS for front-end development,
+resulting in responsive and easily maintainable applications
+• Mentored juniors in SQL querying, DBMS, and CI/CD practices, resulting in improvement in team productivity and collaboration.
+SKILLS
+• Languages:
+• Frameworks:
+• Tools:
+• Databases:
+• Misc.:
+CERTIFICATIONS
+Python, C, Java, HTML, CSS, JavaScript, TypeScript, SQL, PHP
+React, .NET, Node.js, Pandas, NumPy, OpenCV, Spark, Hadoop, HiveQL, Spark SQL, Kafka, GraphQL, TensorFlow, gRPC
+GitHub, Postman, Jenkins, CI/CD, AWS, GCP, Nginx, Docker, Kubernetes, Snowflake, Informatica PC, IICS, bash, IBM Cognos
+SQL Server, Azure SQL, MariaDB, MongoDB, AWS Aurora
+Excel, Power BI, ServiceNow, Stream lit
+• SnowPro Core: Snowflake
+• DevOps: PagerDuty and Linkedin
+• JavaScript: Microsoft
+• Docker Professional Certificate
+• Meta Front-End Developer Certificate
+EDUCATION
+Master of Science | Computer Science
+GPA: 4.0/4.0
+August 2023 - Present
+Relevant Courses: Data Analysis & Modelling Techniques, Cloud Computing & Big Data, Distributed Systems, Secure Programming, Design & Analysis of Algorithms
+Bachelor of Engineering | Computer Science & Engineering
+August 2017 - July 2021
+PROJECTS
+Distributed Consensus System using Raft Algorithm
+Technologies Used: Docker, gRPC, Python, Java
+| GPA:3.6/4.0
+2024
+No-Code Data Pipeline Creator (a cloud-native web application)
+• Implemented Leader Election and Log Replication by using a simplified version of the Raft consensus algorithm, enabling leader election and
+fault-tolerant log replication across a network of containerized nodes communicating via gRPC.
+• Developed Client-Server Architecture with Testing to ensure consistent log replication and state management.
+Technologies Used: GCP, JavaScript, Node.js, HTML, CSS, Django, Docker, Spark, Jenkins, Testing, GitHub actions
+2023
+• Built a Ul enabling non-technical users to create ETL pipelines. A cloud-native solution using PySpark, GCP's Dataproc and Dataflow to enable
+users to create a simple data transformation pipeline via Ul
+• Built a secure front end that allows users to upload datasets securely and efficiently to cloud storage using OAuth 2.0 and multipart upload
+• Streamlined development by implementing a CI/CD pipeline with automated testing.
+2021
+Scalable Image Classifier on AWS
+Technologies Used: Torch, React, HTML, CSS, JavaScript, Pandas, NumPy, AWS, and NLTK libraries
+• Developed an image classifier using AWS, Application Load Balancer and Auto Scaling Groups to enable handling multiple concurrent requests
+with low latency, featuring a front-end portal allowing users to retrain the model with custom datasets
+• Architected loosely coupled components using a messaging queue for communication between the application tier and frontend tier
+• Used AWS CDK as an lac solution to simplify infrastructure and configuration management
+Text Summarizer
+Technologies Used: Flask, TensorFlow, Collab, Python, HTML, CSS, JavaScript, CI/CD, Flask, React
+2020
+• Created a text summarizer using Transformer based Google's Pegasus and improved the model using APES a custom metric along with ROUGE-
+N to generate context-based human-like summaries
+• Used a microservice architecture for easier development and to enable dynamic scaling.
+EXTRACURRICULAR
+
+
+=== Screenshot_2024-12-24_at_5.16.57_PM.png ===
+Lebron James
+lebron@gmail.com • (000) 000-0000 • linkedin.com/lebron • github.com/lebron
+EXPERIENCE
+Microsoft
+Software Engineer, Azure
+Redmond, WA
+January 2023 - Current
+Implemented and launched Azure's flagship feature, <insert feature name>, enabling scalable enforcement of xxx across
+600+ organizations, driving a 30% increase in product adoption.
+Ο
+Delivered full-stack solutions spanning backend REST APIs (C#), frontend interfaces (React, TypeScript), and
+serverless architectures (Docker, TypeScript) to support enterprise scaling.
+Played pivotal role in creating & shipping <insert service name>, developing scalable DB infrastructure and enhancing
+web applications to support rapid product growth.
+Created end-to-end testing infrastructure, integrating them into CI/CD pipelines to enhance product quality.
+Ο Conducted workshops and Q&A sessions to ensure team-wide adoption.
+Established comprehensive monitoring systems (metrics, logs, alerts, dashboards) to uphold a 99.99% SLA.
+Enhanced on-call operations with actionable postmortem analyses, fostering a culture of continuous improvement and
+incident prevention.
+Software Engineer, VS Code
+Led integration of xxx into the VSCode <insert extension name> extension, delivering the most-requested feature for
+millions of developers worldwide.
+Ο
+Developed 50+ VS Code commands to enhance xxx tooling, improving user workflows and expanding container
+capabilities.
+Collaborated with the open-source community, driving feature alignment with user feedback and resolving issues to
+improve developer experience.
+Microsoft
+Software Engineer Intern
+Redmond, WA
+May 2022 – August 2022
+Designed and deployed Azure Functions capable of processing 3,000+ requests per minute, reducing costs by optimizing
+operational efficiency. (Python, Azure Functions)
+Built custom Docker containers, decreasing deployment time by 40% through efficient dependency management.
+(Docker)
+Medium sized Medical Device Company
+Software Engineer Intern
+San Diego, CA
+May 2021 – July 2021
+Designed and tested software tools for interfacing with CGM medical devices (C#), contributing to critical healthcare
+innovations.
+Delivered 10+ features, including encryption & decryption of custom files, extraction & processing of XML files, Okta
+unit testing authentication system, and visualizing datasets in JMP.
+Small Medical Device Company
+Software Engineer Intern
+Seattle, WA
+May 2020 – November 2020
+Developed & integrated content & data management system into new web application for managing 15000+ documents.
+(C#, ASP.NET, JavaScript)
+Added 20+ features, including CRUD functions, encrypted login & signup (SQL Server) and filtered search. (MongoDB)
+EDUCATION
+State School in California
+B.S. Computer Science
+Graduated Magna Cum Laude | 3.7 GPA
+City, CA
+SKILLS
+Programming Languages:
+Tools & Technology:
+C#, TypeScript, Python, Java, JavaScript, C
+Azure, Docker, Node.Js, React, Grafana, HTML, CSS
+
+
+=== Screenshot_2024-12-27_at_12.53.47_PM.png ===
+first last
+123-456-1233 | email@email.com | linkedin.com | github.com
+TECHNICAL SKILLS
+Languages: Python, Kotlin, Java, C/C++, Swift, Go, SQL (MySQL, Postgres), JavaScript, HTML/CSS
+Frameworks: Flask, OpenCV, Hibernate, Guice, FastAPI, React.js, TensorFlow, Scikit-learn
+Tools & Libraries: Datadog, Snowflake, AWS, Google Cloud Platform, Docker, Firebase, MongoDB, Git
+EXPERIENCE
+Backend Software Engineer
+Company
+Sep. 2024 Dec. 2024
+Location, Location
+• Implemented financial event tracking in Snowflake, improving auditing of over $200K in shipping events annually
+• Redesigned shipping cost cap systems lifting total volume of goods sold by 3% and re-orders by 9%
+• Designed A/B testing framework using Kotlin and MySQL enabling randomized product variation assignments,
+real-time data collection and variant performance analytic tracking for brands
+• Deployed free shipping thresholds and flat rates, improving shipping cost predictability for top brands
+• Developed unknown API message catching system using Datadog, reducing CX tickets by 20% and improving
+reliability across 3 subsystems serving 100K+ brands
+Software Engineer
+Company
+Jan. 2024 Apr. 2024
+Location, Location
+• Designed in-app survey framework in Swift, enabling real-time feedback collection from 1M+ users
+• Built and optimized a client-side A/B testing tool with GraphQL AWS backend, driving a 15% lift in subscription
+conversions across 1000+ users.
+• Created Apple Shortcuts integrations, expanding smart home capabilities, driving seamless user experience across
+company's ecosystem of smart devices
+Lead Software Engineer
+Company
+May 2023 Aug. 2023
+Location, Location
+• Designed and implemented architecture of a health application with secure RESTful APIs enabling large-scale
+sharing of vital signs data between patients and doctors.
+•
+Created appointment scheduling system using Amazon SQS and Apple EventKit, allowing patients to book
+appointments based on real-time doctor availability, reducing scheduling conflicts
+• Deployed predictive analytics on AWS for doctors to view real-time patient health insights
+• Built integration with Apple HealthKit to automatically sync health records from users' Apple Watches
+Machine Learning Engineer
+Company
+Sep. 2022 Dec. 2022
+Location, Location
+• Created end-to-end signal processing pipeline using Brainflow API, Numpy and Pandas to collect and process EEG
+data in real time, resulting in 20% quicker and more efficient model performance and predictions
+• Developed and trained CNN, DWT and Classical models using scikit-learn, Keras and TensorFlow with 70%
+accuracy on EEG data to classify human motor movements using brain signals
+Software Quality Engineer
+Company
+Jan. 2022 Apr. 2022
+Location, Location
+• Designed and Developed Automated Web Software Testing Framework to update existing test suite
+PROJECTS
+Heart Rate Sensor from Video | Python, Numpy, OpenCV | GitHub
+• Developed a heart rate monitoring system leveraging signal processing and Eulerian Video Magnification to amplify
+subtle color changes in facial video recordings for accurate pulse detection.
+Smart Home Fan Integration | Arduino, Google Home | GitHub
+• Transformed a conventional fan into a smart IoT device using ESP32, integrating it with Google Home for voice
+control and automation, programming an on-chip web server to manage device settings.
+EDUCATION
+University of Name
+Bachelor of Engineering, X Engineering, CGPA: 91%
+Location
+Sep. 2021 Apr. 2026
+
+
+=== Uchechukwu-Alih-Resume-cut.jpg ===
+EDUCATION
+Grambling State University - BSc. Computer Science, Mathematics (4.0/4.0)
+Graduation: May 2027
+Relevant Coursework: Scripting & Programming, Ethical Hacking, Data Structures and Algorithms, Database Systems
+Honors/Awards: Jane Street INFOCUS Scholar, GSU Presidential Scholarship, The Diana Initiative Scholarship, KR Scholarship, 3X
+Hackathon winner, 2024 Biztech Pitch Competition Finalist. Involvement: Propel, Codepath, Colorstack, NSBE
+SKILLS & CERTIFICATIONS
+Languages: Python, JavaScript, Bash, SQL, Django, Dart, Assembly
+Tools, Software and Frameworks: Docker, AWS, JupyterNotebook, Git, PowerShell, Flutter, Flask, Django
+Certifications: CodePath Intermediate Cybersecurity, Technical Interview Prep; IBM Data and Artificial Intelligence practitioner, Threat
+Intelligence and Hunting; TCM Security Practical Ethical Hacking; GIAC SEC275; Google Cybersecurity
+WORK EXPERIENCE/ LEADERSHIP
+Security Engineering Fellow – Cybersecurity Accelerator
+Propel Center | Atlanta, Georgia
+•
+•
+•
+Aug 2024 - Present
+Captured 60+ HackTheBox flags across multiple security domains (web exploitation, cryptography, binary analysis, mobile security)
+during a 12-hour competitive hackathon
+Selected as one of 50 participants for an elite cybersecurity professional development program to develop advanced InfoSec skills
+Awarded the prestigious Diana Initiative Scholarship recognizing emerging talent in cybersecurity
+Lead Undergraduate Researcher
+Grambling State University Math and Physics Department | Grambling, Louisiana
+•
+•
+Aug 2023 - Aug 2024
+Spearheaded a NASA-sponsored Artemis IV research initiative exploring applications of laser & nanoparticles: Delivered poster
+presentation of research findings in 2024 Louisiana Academy of Sciences conference
+Implemented agile project management techniques leading a team of 6 students, conducting 5-7 hours of weekly lab work
+GSU Digital Library Support Technician
+Grambling State University | Grambling, Louisiana
+•
+•
+•
+Sept 2023 - Present
+Provided technical assistance to library patrons, resolving hardware and software issues promptly maintaining campus productivity
+Implemented and managed system updates across devices, ensuring compliance with university IT policies and minimizing downtime.
+Improved troubleshooting workflows by updating documentation and addressing frequent issues, reducing help desk requests by 20%.
+PROJECTS AND HАСКАТНONS
+Data Analyst | Data for Good (24-Hour Stretch)
+JP Morgan Chase & Co. | Brooklyn, New York
+•
+•
+•
+Implemented an analytical model linking 5 non-profit core values to large US Census dataset metrics.
+April 2024 - May 2024
+Identified optimal zip code clusters using Python, Pandas, Seaborn enabling strategic outreach for the Ordinarie Heroes initiative.
+Designed regression models assessing education access influence on economy, guiding recommendations for initiative expansion.
+Game Developer | Chess Game (40 hours) - Chess
+•
+Designed and developed a fully functional chess game using Python and Pygame.
+•
+•
+Jan 2024
+Implemented algorithms for piece moves, turn-based mechanics, move validation, check and checkmate detection, and game-state tracking.
+Employed object-oriented programming paradigm to handle game logic and ensure scalability for future enhancements, such as Al opponents
+Aug 2023 - April 2024
+Incident Response | Codepath
+•
+•
+•
+Administered comprehensive security analysis on a real-world dataset using tools including Splunk, Wireshark, Nmap and Netcat
+Conducted extensive threat analysis on a vulnerable Kioptrix system identifying common threats and mitigating their effects by 70%
+following incident-response playbook
+Attained proficiency in essential security tools 24-week comprehensive curriculum comprising lectures, labs, & projects
+Web Developer | GSU Digital Technologies Hackathon - Edulingo
+•
+•
+•
+Sept 2024
+Collaborated with a team of 6 developers, engaging Git, GitHub, Whiteboard, and web technologies, in building Edulingo, a language
+learning platform, securing first place among 9 teams
+Designed frontend using HTML, CSS and JavaScript and integrated efficient Flask API backend, featuring secure POST endpoints
+Engaged browser Speech API for original lingual pronunciation, increasing user language learning potential by 30%
+Quantum Key Distribution | Personal project (20 hours) – Github
+QubitXQubit | The Coding School | Remote
+•
+•
+Aug 2023 - April 2024
+Simulated Quantum Key Distribution BB84 protocol with Python Cirq demonstrating its efficiency against network interference
+Developed encryption and decryption functions with XOR operations, ensuring data confidentiality through quantum-generated keys
+Incorporated error simulation and measurement processes to explore the robustness of quantum key generation in noisy environments
+IBM Data Analysis Project | IBM Skillsbuild (~12 hours)
+Dec 2023 - Jan 2024
+•
+•
+•
+Engineered a fraud detection system using IBM Watson Studio AutoAI and XGBoost, implementing comprehensive data analysis and
+feature engineering to achieve 90% accuracy on insurance claims test data
+Developed interactive dashboards and predictive analytics tools to enhance fraud detection visualization, enabling data-driven decision
+making for insurance claim processing
+ACTIVITIES
+AT&T Technology Academy, Cloud Computing Trainee
+•
+June 2024 - July 2024
+Gained experience in REST APIs, SDLC, AI, big data tools like Hadoop and Spark, and data pipelines through hands-on labs and
+training.
